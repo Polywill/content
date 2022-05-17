@@ -34,7 +34,7 @@ containsNode(node, partialContainment)
 
 ### Return value
 
-None ({{jsxref("undefined")}}).
+A boolean.
 
 ## Examples
 
